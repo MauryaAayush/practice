@@ -6,7 +6,7 @@ class Main{
 
 //        System.out.println("Hello World");
 
-        ArrayList data = new ArrayList();
+//        int arr[10] = 10;
 
 
     }}
